@@ -1,54 +1,61 @@
-# Frontend Mentor - QR Code Component
+# Frontend Mentor - QR code component solution
 
-This is a solution to the [QR Code Component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) on Frontend Mentor. This challenge helps developers improve their HTML and CSS skills by building a simple but well-structured component.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of Contents
+## Table of contents
 
 - [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built With](#built-with)
-- [What I Learned](#what-i-learned)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-### The Challenge
-
-The challenge is to build out a QR code component and make it look as close as possible to the given design. The project includes both desktop and mobile versions, and the design files are provided in JPG format.
-
-Users should be able to:
-
-- View the optimal layout for the component depending on their device’s screen size.
-- See a well-structured and visually accurate QR code component.
-
 ### Screenshot
 
-![Project Screenshot](./design/desktop-design.jpg)
+![](./design/desktop-design.jpg)
 
-## Links
+### Links
 
-- Live Site: [View Here](#)
-- Solution on Frontend Mentor: [View Here](#)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/kulugbek09)
+- Live Site URL: [Add live site URL here](https://qr-code-ku.netlify.app/)
 
-## Built With
+## My process
 
-- HTML5
-- CSS3
+### Built with
 
-## What I Learned
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
 
 While working on this project, I practiced:
 
 - Structuring semantic HTML.
 - Styling with CSS, focusing on font sizes, margins, padding, and alignment.
 
+### Continued development
+
+In future projects, I want to focus more on:
+
+- Improving my CSS layout skills with Flexbox and Grid.
+- Enhancing accessibility best practices.
+- Exploring more advanced CSS techniques.
+
 ## Author
 
-- Frontend Mentor Profile: [kulugbek09](https://www.frontendmentor.io/profile/kulugbek09)
-- GitHub: [kulugbek09](https://github.com/kulugbek09/)
-- Instagram: [_k.ulugbek_](https://www.instagram.com/_k.ulugbek_/)
+- Frontend Mentor - [@kulugbek09](https://www.frontendmentor.io/profile/kulugbek09)
+- GitHub - [kulugbek09](https://github.com/kulugbek09/)
+- Instagram - [_k.ulugbek_](https://www.instagram.com/_k.ulugbek_/)
 
 ## Acknowledgments
 
